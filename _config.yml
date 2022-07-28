@@ -1,0 +1,19 @@
+# Usign the Clean Blog theme
+
+title: Julie Delon
+author: Julie Delon
+email: julie.delon@u-paris.fr
+description: Homepage of Julie Delon
+baseurl: ""
+github_username:  jdelo
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 5
+exclude: ["node_modules"]
+
+name: Julie Delon
+gems:
+  - jekyll-feed
+  - jekyll-paginate
