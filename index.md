@@ -6,7 +6,7 @@ header-img: "img/HomeImage.jpeg"
 
 ### Contact
 
-Julie Delon, PU CNU 26, membre [IUF](https://www.iufrance.fr/)
+Julie Delon, PU CNU 26
 
 [MAP5](http://map5.mi.parisdescartes.fr/) (UMR CNRS 8145)
 UFR Mathématiques-Informatique, Université Paris Cité
