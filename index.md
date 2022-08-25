@@ -9,10 +9,11 @@ header-img: "img/HomeImage.jpeg"
 Julie Delon, PU CNU 26
 
 [MAP5](http://map5.mi.parisdescartes.fr/) (UMR CNRS 8145)
-UFR Mathématiques-Informatique, Université Paris Cité
-45, rue des Saints Pères, 75270 Paris Cedex 06, FRANCE
 
-Tel: +33 (0)1 76 53 03 84            email : prenom ‘dot’ nom ‘at’ u-paris ‘dot’ fr
+UFR Mathématiques-Informatique, Université Paris Cité  
+45, rue des Saints Pères, 75270 Paris Cedex 06, FRANCE  
+Tel: +33 (0)1 76 53 03 84  
+Email : prenom ‘dot’ nom ‘at’ u-paris ‘dot’ fr
 
 [Trouver mon bureau (752) aux Saints-Pères](pages/comment-venir.md)
 
