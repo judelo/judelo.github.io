@@ -17,6 +17,12 @@ Email : prenom ‘dot’ nom ‘at’ u-paris ‘dot’ fr
 
 [Trouver mon bureau (752) aux Saints-Pères](pages/comment-venir.md)
 
+### Events
+
+[MIA 2023, Mathematics and Image Analysis](https://www.wias-berlin.de/workshops/MIA2023/index.html) will take place in Berlin (February 1-3 2023) and is now open for registration!
+
+The application for the [biennal "French-German Mathematic in Imaging PhD Prize"](https://cmt3.research.microsoft.com/MIAPhDPrize2023) is now open (deadline: November 30th 2022)
+
 ### Research interests
 
 Optimal transport, image processing, inverse problems, stochastic models for image restoration and editing.
