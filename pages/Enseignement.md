@@ -15,11 +15,11 @@ header-img: "img/backBlue.png"
 
 #### M1 Mathématiques, Modélisation, Apprentissage (MMA). Université DE Paris
 
-* [Cours Programmation, 2021-2022](m1-mma-programmation.md)
+* [Cours Programmation, 2021-2023](m1-mma-programmation.md)
 
 #### M2 Mathématiques, Modélisation, Apprentissage (MMA). Université DE Paris
 
-* [Cours Algorithmes Stochastiques](m2-mm-algorithmes-stochastiques.md), 2018-2021
+* [Cours Algorithmes Stochastiques](m2-mm-algorithmes-stochastiques.md), 2018-2022
 * [Cours Perception et analyse d’image](m2-ti-perception-acquisition-et-analyse-dimage.md), 2014-2020 (avec Joan Glaunès)
 
 #### M2 MVA, ENS Paris Saclay
