@@ -23,6 +23,8 @@ Email : prenom ‘dot’ nom ‘at’ u-paris ‘dot’ fr
 
 The application for the [biennal "French-German Mathematic in Imaging PhD Prize"](https://cmt3.research.microsoft.com/MIAPhDPrize2023) is now open (deadline: November 30th 2022)
 
+[1st French-Italian workshop on the Mathematics of Imaging, Vision and their Applications (MIA-MIVA)](https://sites.google.com/view/workshop-mia-miva/home)
+
 ### Research interests
 
 Optimal transport, image processing, inverse problems, stochastic models for image restoration and editing.
