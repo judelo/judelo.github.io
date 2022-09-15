@@ -14,6 +14,6 @@ paginate: 5
 exclude: ["node_modules"]
 
 name: Julie Delon
-gems:
+plugins:
   - jekyll-feed
   - jekyll-paginate
