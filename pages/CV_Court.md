@@ -59,4 +59,4 @@ Titre : Comparaison fine d’images et autres problèmes
 * [ANR MIRIAM](https://anr.fr/Projet-ANR-14-CE27-0019) (2014-2018) : Restauration Multi-Images:
 * Projet FUI CEDCA (2010-2013) with DxO Labs
 * [ANR OTARIE](https://users.mccme.ru/ansobol/otarie/) (2007-2011) Optimal transport:Theory and applications to cosmological reconstruction and image processing
-* [ANR FREEDOM](https://anr.fr/Project-ANR-07-JCJC-0048) (2007-2010) Film : REstauration, Et DOnnées Manquantes.
+* [ANR FREEDOM](https://anr.fr/Project-ANR-07-JCJC-0048) (2007-2010) Film : REstauration, Et DOnnées Manquantes. 
