@@ -17,6 +17,15 @@ header-img: "img/backBlue.png"
 
 * TP : [notebook](https://nbviewer.jupyter.org/github/judelo/algosto/blob/master/python/TP_gradient_stochastique.ipynb) (à ouvrir avec Jupiter Notebook) + [fichiers de données](https://github.com/judelo/algosto/tree/master/data)
 
+### 26/09 – Rappels sur le maximum de vraisemblance et mixtures gaussiennes
+
+* TP : [notebook mixtures](https://nbviewer.jupyter.org/github/judelo/algosto/blob/master/python/TP_gaussian_mixtures.ipynb)
+
+### 03/10 – Cours Espérance Maximisation
+
+* TP : [SEM_EM](https://nbviewer.jupyter.org/github/judelo/algosto/blob/master/python/TP_SEM_EM.ipynb)
+
+
 ### Liens pour Python
 
 * [Python](https://docs.python.org/2/tutorial/)
