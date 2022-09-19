@@ -5,7 +5,7 @@ author: Julie Delon
 email: julie.delon@u-paris.fr
 description: Homepage of Julie Delon
 baseurl: ""
-github_username:  jdelo
+github_username:  judelo
 
 # Build settings
 markdown: kramdown
@@ -14,6 +14,6 @@ paginate: 5
 exclude: ["node_modules"]
 
 name: Julie Delon
-gems:
+plugins:
   - jekyll-feed
   - jekyll-paginate
