@@ -5,7 +5,7 @@ author: Julie Delon
 email: julie.delon@u-paris.fr
 description: Homepage of Julie Delon
 baseurl: ""
-github_username:judelo
+github_username: judelo
 
 # Build settings
 markdown: kramdown
