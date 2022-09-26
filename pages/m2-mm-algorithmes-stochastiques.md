@@ -6,7 +6,7 @@ header-img: "img/backBlue.png"
 
 ### Déroulement des séances
 
-[POLYCOPIE](https://mycloud.mi.parisdescartes.fr/s/cZQ7y6mSnfcjtsZi)
+[POLYCOPIE](https://mycloud.mi.parisdescartes.fr/s/BKmTaWGGYs66ZRn)
 
 ### Introduction à Python
 
