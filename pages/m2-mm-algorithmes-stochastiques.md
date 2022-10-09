@@ -25,6 +25,15 @@ header-img: "img/backBlue.png"
 
 * TP : [SEM_EM](https://nbviewer.jupyter.org/github/judelo/algosto/blob/master/python/TP_SEM_EM.ipynb)
 
+### 10/10 – Suite et fin EM
+
+* TP: [Données réelles](https://nbviewer.jupyter.org/github/judelo/algosto/blob/master/python/TP_EM_realdata_enonce.ipynb)
+
+### 19/10  – Simulation de variables aléatoires
+
+* TP: [introduction simulation de variables](https://nbviewer.jupyter.org/github/judelo/algosto/blob/master/python/TP_simulation.ipynb)
+
+
 
 ### Liens pour Python
 
