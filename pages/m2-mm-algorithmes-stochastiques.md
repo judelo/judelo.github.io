@@ -29,9 +29,15 @@ header-img: "img/backBlue.png"
 
 * TP: [Données réelles](https://nbviewer.jupyter.org/github/judelo/algosto/blob/master/python/TP_EM_realdata_enonce.ipynb)
 
-### 19/10  – Simulation de variables aléatoires
+### 19/10, 24/10  – Simulation de variables aléatoires
 
 * TP: [introduction simulation de variables](https://nbviewer.jupyter.org/github/judelo/algosto/blob/master/python/TP_simulation.ipynb)
+
+### 24/10 Echantillonnage préférentiel
+
+* TP: [importance sampling](https://nbviewer.jupyter.org/github/judelo/algosto/blob/master/python/TP_importance_sampling_enonce.ipynb)
+
+### [DM à rendre pour le 7 novembre 2022 (avant minuit)](https://mycloud.mi.parisdescartes.fr/s/fseZJSdcnTWpkQA)
 
 
 
