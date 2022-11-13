@@ -39,6 +39,13 @@ header-img: "img/backBlue.png"
 
 ### [DM à rendre pour le 7 novembre 2022 (avant minuit)](https://mycloud.mi.parisdescartes.fr/s/fseZJSdcnTWpkQA)
 
+### Partiel le 14/11 à 08h45
+
+### 21/11, 28/11 - MCMC : lire dans le poly les rappels sur les chaînes de Markov 
+
+* TP: [intro MCMC](https://nbviewer.jupyter.org/github/judelo/algosto/blob/master/python/TP_MCMC.ipynb)
+* [Modèle d’Ising](https://nbviewer.jupyter.org/github/judelo/algosto/blob/master/python/TP_Ising.ipynb)
+* [Voyageur de commerce](https://nbviewer.jupyter.org/github/judelo/algosto/blob/master/python/TP_commerce.ipynb)
 
 
 ### Liens pour Python
