@@ -6,7 +6,7 @@ header-img: "img/HomeImage.jpeg"
 
 ### Contact
 
-Julie Delon, PU CNU 26
+Julie Delon, Professeure CNU 26
 
 [MAP5](http://map5.mi.parisdescartes.fr/) (UMR CNRS 8145)
 
