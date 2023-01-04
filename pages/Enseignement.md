@@ -13,13 +13,14 @@ header-img: "img/backBlue.png"
 
 [Une courte introduction aux réseaux de neurones et à l’apprentissage profond.](http://helios.mi.parisdescartes.fr/~ebirmele/depots/Enseignements/GrandeDimension/neural_networks.pdf) 
 
-#### M1 Mathématiques, Modélisation, Apprentissage (MMA). Université DE Paris
+#### M1 Mathématiques, Modélisation, Apprentissage (MMA). Université Paris Cité
 
 * [Cours Programmation, 2021-2023](m1-mma-programmation.md)
+* [Cours Bases Mathématiques pour le traitement d'image, 2023](m1-mma-baseimage.md)
 
-#### M2 Mathématiques, Modélisation, Apprentissage (MMA). Université DE Paris
+#### M2 Mathématiques, Modélisation, Apprentissage (MMA). Université Paris Cité
 
-* [Cours Algorithmes Stochastiques](m2-mm-algorithmes-stochastiques.md), 2018-2022
+* [Cours Algorithmes Stochastiques](m2-mm-algorithmes-stochastiques.md), 2018-2023
 * [Cours Perception et analyse d’image](m2-ti-perception-acquisition-et-analyse-dimage.md), 2014-2020 (avec Joan Glaunès)
 
 #### M2 MVA, ENS Paris Saclay
