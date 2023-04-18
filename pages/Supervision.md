@@ -6,14 +6,15 @@ header-img: "img/backBlue.png"
 
 ### Current supervisions
 
+* [Eloi Tanguy](https://eloitanguy.github.io/), PhD student (09/2022), co-dir with Agnès Desolneux
 * Keanu Sisouk, PhD student (11/2021), co-dir. with Julien Tierny
 * Antoine Salmona, PhD student (09/2020), co-dir. with Agnès Desolneux
 * Antoine Monod, PhD student (11/2019), co-dir. with Matias Tassano (CIFRE, GoPro)
-* Rémi Laumont, PhD student (09/2019-), co-dir. with Andrés Almansa and Marcelo Pereyra
 * Lucia Bouza, Research engineer (12/2021)
 
 ### Former students (PhD, Post-Docs, Engineers)
 
+* Rémi Laumont, post-doc Copenhagen. PhD student (09/2019-2022), co-dir. with Andrés Almansa and Marcelo Pereyra
 * [Alexandre Saint-Dizier](http://www.math-info.univ-paris5.fr/~adizier/), ATER. PhD student (2017-2020), co-dir. with Charles Bouveyron
 * [Mariano Rodriguez](https://rdguez-mariano.github.io/), Engineer at [Powder](https://powder.gg/pc). PhD  2016-2020, co-dir. with Jean-Michel Morel
 * [Matias Tassano](https://m-tassano.github.io/index.html), Engineer at [META](https://about.facebook.com/meta/). PhD 2016-2019, co-dir. with Thomas Veit (CIFRE with GoPro)
