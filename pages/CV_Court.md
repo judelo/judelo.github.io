@@ -33,7 +33,7 @@ Titre : Comparaison fine d’images et autres problèmes
 
 * Correspondante pédagogique du [M2 MVA](https://www.master-mva.com) (ENS Paris-Saclay) pour l’Université Paris Cité depuis 2019
 * 2017-2022, responsable du [M2 Mathématiques, Modélisation, Apprentissage](https://math-info.u-paris.fr/master-mathematiques-et-applications/specialite-mathematiques-modelisation-apprentissage/) à l’Université Paris Cité
-* 2014-2017 Responsable du M2 Traitement d’Images de l'UFR Maths-Info à l'Université Paris Decartes
+* 2014-2017, responsable du M2 Traitement d’Images de l'UFR Maths-Info à l'Université Paris Decartes
 
 ### Principales responsabilités à l’Université Paris Cité
 
@@ -44,10 +44,11 @@ Titre : Comparaison fine d’images et autres problèmes
 ### Co-Organisation d’évènements scientifiques (récents)
 
 * 2023 février : [conférence MIA’23 – Mathematics and Image Analysis, Berlin](https://www.wias-berlin.de/workshops/MIA2023/index.html)
-* 2023 janvier : Journée Sciences et Médias à la BNF
+* 2023 mai : Journée Sciences et Médias à la BNF, [Scientifiques, journalistes, politiques :
+le bon, la brute et le truand ?](http://www.sciencesetmedias.org)
 * 2022 mars : mini-symposium New Directions in Stochastic Bayesian Imaging Methodology, SIAM Conference on Imaging Science, Berlin.
 * 2022 mars : workshop [Optimal Transport and Structured Data Modeling](https://ot-sdm.github.io), Co-located with AAAI 2022, Vanvouver, Canada.
-* 2022 janvier : Journée Sciences et Médias à la BNF, [Raconter la Science en tant de crise](http://sciencesetmedias.org/).
+* 2022 janvier : Journée Sciences et Médias à la BNF, [Raconter la Science en tant de crise](http://www.sciencesetmedias.org/2022-index.php).
 * 2021 janvier : Journée Sciences et Médias à la BNF, [Comment améliorer la représentation des femmes scientifiques dans les médias ?](http://sciencesetmedias.org/2020-index.php)
 * 2019 jan-mars : Co-organisation du trimestre IHP [The Mathematics of Imaging](https://imaging-in-paris.github.io/)
   trois colloques d’une semaine, des cours doctoraux, des invitations longues de chercheurs étrangers, et une école thématique au CIRM
