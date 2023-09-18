@@ -15,12 +15,12 @@ header-img: "img/backBlue.png"
 
 #### M1 Mathématiques, Modélisation, Apprentissage (MMA). Université Paris Cité
 
-* [Cours Programmation, 2021-2023](m1-mma-programmation.md)
-* [Cours Bases Mathématiques pour le traitement d'image, 2023](m1-mma-baseimage.md)
+* [Cours Programmation, 2021-2024](m1-mma-programmation.md)
+* [Cours Bases Mathématiques pour le traitement d'image, 2023-2024](m1-mma-baseimage.md)
 
 #### M2 Mathématiques, Modélisation, Apprentissage (MMA). Université Paris Cité
 
-* [Cours Algorithmes Stochastiques](m2-mm-algorithmes-stochastiques.md), 2018-2023
+* [Cours Algorithmes Stochastiques](m2-mm-algorithmes-stochastiques.md), 2018-2024
 * [Cours Perception et analyse d’image](m2-ti-perception-acquisition-et-analyse-dimage.md), 2014-2020 (avec Joan Glaunès)
 
 #### M2 MVA, ENS Paris Saclay
@@ -37,8 +37,8 @@ Cours d’introduction aux probabilités pour les non mathématiciens.
 
 #### ANCIENS cours, Université Paris Descartes
 
+* TD Statistique Inférentielle, L2, 2017-2018, 2023-2024
 * Cours Apprentissage en grande dimension, M2 MMA, 2017-2018
-* TD Statistique Inférentielle, L2, 2017-2018
 * Programmation, M1 MM & IM, 2013-2017
 * Probabilités Avancées, M1 MM & IM, 2013-2016
 * Séries temporelles, M1 MM & IM, 2013-2016
