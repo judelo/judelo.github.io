@@ -4,18 +4,19 @@ title: "M2 MM – Algorithmes Stochastiques"
 header-img: "img/backBlue.png"
 ---
 
-### Déroulement des séances
+### Support de cours 
 
 [POLYCOPIE](https://mycloud.mi.parisdescartes.fr/s/YAEGLeFFb7pj57p)
+
+### Répertoire Github avec les TPs : [notebooks](https://github.com/judelo/algosto/)
 
 ### Introduction à Python (si vous avez besoin de réviser)
 
 * COURS/TP : [notebook](https://nbviewer.jupyter.org/github/judelo/algosto/blob/master/python/introduction_python.ipynb) (à ouvrir avec Jupiter Notebook) + [fichier de données](http://www.math-info.univ-paris5.fr/~jdelon/enseignement/intro_python/PopLynxRegionCanada_1821_1934.dat)
-* [Exercices supplémentaires](https://nbviewer.jupyter.org/github/judelo/algosto/blob/master/python/TP1_intro_Python.ipynb)
-
-### Répertoire Github avec les TPs : [notebooks](https://github.com/judelo/algosto/)
-
-### Liens pour Python
+* [Exercices
+  supplémentaires](https://nbviewer.jupyter.org/github/judelo/algosto/blob/master/python/TP1_intro_Python.ipynb)
+  
+#### Autres liens pour Python
 
 * [Python](https://docs.python.org/2/tutorial/)
 * [NumPy](http://docs.scipy.org/doc/numpy/reference/)
