@@ -6,18 +6,14 @@ header-img: "img/backBlue.png"
 
 ### Déroulement des séances
 
-[POLYCOPIE](https://mycloud.mi.parisdescartes.fr/s/senPPBXfYnH8E8Q)
+[POLYCOPIE](https://mycloud.mi.parisdescartes.fr/s/YAEGLeFFb7pj57p)
 
 ### Introduction à Python (si vous avez besoin de réviser)
 
 * COURS/TP : [notebook](https://nbviewer.jupyter.org/github/judelo/algosto/blob/master/python/introduction_python.ipynb) (à ouvrir avec Jupiter Notebook) + [fichier de données](http://www.math-info.univ-paris5.fr/~jdelon/enseignement/intro_python/PopLynxRegionCanada_1821_1934.dat)
 * [Exercices supplémentaires](https://nbviewer.jupyter.org/github/judelo/algosto/blob/master/python/TP1_intro_Python.ipynb)
 
-### 19/09 – Cours et TP Gradient stochastique
-
-* TP : [notebook](https://nbviewer.jupyter.org/github/judelo/algosto/blob/master/python/TP_gradient_stochastique.ipynb) (à ouvrir avec Jupiter Notebook) + [fichiers de données](https://github.com/judelo/algosto/tree/master/data)
-
-
+### Répertoire Github avec les TPs : [notebooks](https://github.com/judelo/algosto/)
 
 ### Liens pour Python
 
