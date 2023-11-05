@@ -18,6 +18,8 @@ header-img: "img/backBlue.png"
 
 [Stochastic Recipes in Imaging](https://storimaging.github.io)
 
+[TP Fourier images](https://mycloud.mi.parisdescartes.fr/s/LMcRXpZi5kefM7z)
+
 ### Anciens cours
 
 Segmentation d’images (JD) : [Transparents](http://w3.mi.parisdescartes.fr/~jdelon/enseignement/cours_image_m2/COURS_segmentation_master.pdf)
