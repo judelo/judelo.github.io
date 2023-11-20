@@ -22,10 +22,10 @@ Titre : Comparaison fine d’images et autres problèmes
 ### Expertise, animation de la recherche
 
 * Directrice du [GDR MIA](https://gdr-mia.math.cnrs.fr) (2022-2026) avec Nicolas Papadakis.
-* Editrice associée du SIAM Journal on Imaging Sciences (SIIMS) depuis 2022
+* Editrice associée du SIAM Journal on Imaging Sciences (SIIMS) depuis
+  2022 et Journal of Mathematical Imaging and Vision (JMIV) depuis 2023.
 * Membre du comité éditorial du journal Image Processing On Line 
 * Membre du conseil d’administration de la Société de Mathématiques Appliquées et Industrielles (SMAI) depuis 2019
-* Membre du conseil scientifique de la Société Mathématique de France (SMF) depuis 2019
 * Membre du conseil scientifique du GRETSI (Groupe de Recherche et d’Etudes de Traitement du Signal et des Images) depuis 2019
 * Membre du CoNRS en section 41 de 2016 à 2020
 
@@ -37,9 +37,10 @@ Titre : Comparaison fine d’images et autres problèmes
 
 ### Principales responsabilités à l’Université Paris Cité
 
-* Membre de la Commission des Postes et Ressources Humaines de la Faculté des Sciences de l’Université Paris Cité depuis 2019. 
-* Membre de la Commission Recherche de la Faculté des Sciences de l’Université Paris Cité depuis 2019. 
-* Membre du Conseil Académique de la Faculté des Sciences de l’Université Paris Cité depuis 2019. 
+* Membre de la Commission des Postes et Ressources Humaines de la
+  Faculté des Sciences de l’Université Paris Cité de 2019 à 2023. 
+* Membre de la Commission Recherche de la Faculté des Sciences de l’Université Paris Cité de 2019 à 2023. 
+* Membre du Conseil Académique de la Faculté des Sciences de l’Université Paris Cité de 2019 à 2023. 
 
 ### Co-Organisation d’évènements scientifiques (récents)
 
@@ -53,11 +54,19 @@ le bon, la brute et le truand ?](http://www.sciencesetmedias.org)
 * 2019 jan-mars : Co-organisation du trimestre IHP [The Mathematics of Imaging](https://imaging-in-paris.github.io/)
   trois colloques d’une semaine, des cours doctoraux, des invitations longues de chercheurs étrangers, et une école thématique au CIRM
 
-### Quelques Projets de recherche financés
+### Quelques Projets de recherche 
 
-* [ANR PostProdLEAP](https://www.labri.fr/perso/bugeau/PostProdLEAP/) (2019-2024): rethinking archive PostProduction with Learning, vAriational, and Patch-based methods.
-* [ANR MISTIC](https://mistic.math.cnrs.fr) (2019-2024) : Models, Inference and Synthesis for Texture In Color
-* [ANR MIRIAM](https://anr.fr/Projet-ANR-14-CE27-0019) (2014-2018) : Restauration Multi-Images:
-* Projet FUI CEDCA (2010-2013) with DxO Labs
-* [ANR OTARIE](https://users.mccme.ru/ansobol/otarie/) (2007-2011) Optimal transport:Theory and applications to cosmological reconstruction and image processing
-* [ANR FREEDOM](https://anr.fr/Project-ANR-07-JCJC-0048) (2007-2010) Film : REstauration, Et DOnnées Manquantes. 
+* [ANR SOCOT]( 2023-2025) Ordres Stochastiques et Transport Contraint (portée par Nicolas JUILLET) 
+* [ANR PostProdLEAP](https://www.labri.fr/perso/bugeau/PostProdLEAP/)
+  (2019-2024): rethinking archive PostProduction with Learning,
+  vAriational, and Patch-based methods (portée par Aurélie Bugeau).
+* [ANR MISTIC](https://mistic.math.cnrs.fr) (2019-2024) : Models,
+  Inference and Synthesis for Texture In Color (Hermine Biermé)
+* [ANR MIRIAM](https://anr.fr/Projet-ANR-14-CE27-0019) (2014-2018) :
+  Restauration Multi-Images (projet porté par Andrés Almansa)
+* Projet FUI CEDCA (2010-2013) with DxO Labs 
+* [ANR OTARIE](https://users.mccme.ru/ansobol/otarie/) (2007-2011)
+  Optimal transport:Theory and applications to cosmological
+  reconstruction and image processing (Andrei Sobolevski)
+* [ANR FREEDOM](https://anr.fr/Project-ANR-07-JCJC-0048) (2007-2010)
+  Film : REstauration, Et DOnnées Manquantes. Responsable du projet.
