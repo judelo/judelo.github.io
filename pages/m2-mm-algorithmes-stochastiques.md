@@ -6,7 +6,7 @@ header-img: "img/backBlue.png"
 
 ### Support de cours 
 
-[POLYCOPIE](https://mycloud.mi.parisdescartes.fr/s/YAEGLeFFb7pj57p)
+[POLYCOPIE](https://mycloud.mi.parisdescartes.fr/s/bpSko39F3gPoHcn)
 
 ### Répertoire Github avec les TPs : [notebooks](https://github.com/judelo/algosto/)
 
