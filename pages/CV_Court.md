@@ -21,12 +21,17 @@ Titre : Comparaison fine d’images et autres problèmes
 
 ### Expertise, animation de la recherche
 
-* Directrice du [GDR MIA](https://gdr-mia.math.cnrs.fr) (2022-2026) avec Nicolas Papadakis.
+* Membre élue et assesseure du bureau du CNU section 26 depuis
+novembre 2023. 
+* Membre du bureau de direction du [RT
+MAIAGES](https://rt-maiages.math.cnrs.fr) depuis janvier 2024. Le RT
+MAIAGES est la fusion des anciens GDR MIA et GeoSto.
+* Directrice du [GDR MIA](https://gdr-mia.math.cnrs.fr) avec Nicolas
+  Papadakis en 2022 et 2023.
 * Editrice associée du SIAM Journal on Imaging Sciences (SIIMS) depuis
   2022 et Journal of Mathematical Imaging and Vision (JMIV) depuis 2023.
 * Membre du comité éditorial du journal Image Processing On Line 
 * Membre du conseil d’administration de la Société de Mathématiques Appliquées et Industrielles (SMAI) depuis 2019
-* Membre du conseil scientifique du GRETSI (Groupe de Recherche et d’Etudes de Traitement du Signal et des Images) depuis 2019
 * Membre du CoNRS en section 41 de 2016 à 2020
 
 ### Principales responsabilités pédagogiques
@@ -44,6 +49,7 @@ Titre : Comparaison fine d’images et autres problèmes
 
 ### Co-Organisation d’évènements scientifiques (récents)
 
+* 2024 avril : [Workshop ICMS - Imaging inverse problems and generating models: sparsity and robustness versus expressivity](https://www.icms.org.uk/InverseProblems)
 * 2023 février : [conférence MIA’23 – Mathematics and Image Analysis, Berlin](https://www.wias-berlin.de/workshops/MIA2023/index.html)
 * 2023 mai : Journée Sciences et Médias à la BNF, [Scientifiques, journalistes, politiques :
 le bon, la brute et le truand ?](http://www.sciencesetmedias.org)
@@ -56,7 +62,10 @@ le bon, la brute et le truand ?](http://www.sciencesetmedias.org)
 
 ### Quelques Projets de recherche 
 
-* [ANR SOCOT]( 2023-2025) Ordres Stochastiques et Transport Contraint (portée par Nicolas JUILLET) 
+* [PEPR PDE-AI](https://pde-ai.math.cnrs.fr), 2023-2027, Partial
+  Differential Equations for Artificial Intelligence (porté par
+  Antonin Chambolle)
+* ANR SOCOT (2023-2025) Ordres Stochastiques et Transport Contraint (portée par Nicolas JUILLET) 
 * [ANR PostProdLEAP](https://www.labri.fr/perso/bugeau/PostProdLEAP/)
   (2019-2024): rethinking archive PostProduction with Learning,
   vAriational, and Patch-based methods (portée par Aurélie Bugeau).
