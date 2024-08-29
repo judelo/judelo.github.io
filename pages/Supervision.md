@@ -6,14 +6,16 @@ header-img: "img/backBlue.png"
 
 ### Current supervisions
 
-* [Eloi Tanguy](https://eloitanguy.github.io/), PhD student (09/2022), co-dir with Agnès Desolneux
-* Keanu Sisouk, PhD student (11/2021), co-dir. with Julien Tierny
-* Bernardin Tamo Amogou (09/2023), co-dir with Marcelo Pereyra and
+* Anatole Gallouet, Post-doc (06/2024 --), co-dir with Julie Digne and Nicolas Bonneel 
+* [Eloi Tanguy](https://eloitanguy.github.io/), PhD student (09/2022 --), co-dir with Agnès Desolneux
+* Keanu Sisouk, PhD student (11/2021 --), co-dir. with Julien Tierny
+* Bernardin Tamo Amogou (09/2023 --), co-dir with Marcelo Pereyra and
 Andrés Almansa 
+
 
 ### Former students (PhD, Post-Docs, Engineers)
 
-* Antoine Salmona, PhD student (09/2020-12/2023), co-dir. with Agnès Desolneux
+* Antoine Salmona, musician and post-doc at IRCAM. PhD 09/2020-12/2023, co-dir. with Agnès  Desolneux
 * Lucia Bouza, Research engineer (12/2021-12/2023)
 * Antoine Monod, Research Engineer at Go Pro France. PhD 12/2019-2023,
   co-dir. with Thomas Veit / Matias Tassano / Eva Coupeté (CIFRE with GoPro)
