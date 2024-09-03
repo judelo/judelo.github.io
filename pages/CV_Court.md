@@ -36,7 +36,7 @@ MAIAGES est la fusion des anciens GDR MIA et GeoSto.
 
 ### Principales responsabilités pédagogiques
 
-* Correspondante pédagogique du [M2 MVA](https://www.master-mva.com) (ENS Paris-Saclay) pour l’Université Paris Cité depuis 2019
+* Correspondante locale du [M2 MVA](https://www.master-mva.com) (ENS Paris-Saclay) pour l’Université Paris Cité depuis 2019 
 * 2017-2022, responsable du [M2 Mathématiques, Modélisation, Apprentissage](https://math-info.u-paris.fr/master-mathematiques-et-applications/specialite-mathematiques-modelisation-apprentissage/) à l’Université Paris Cité
 * 2014-2017, responsable du M2 Traitement d’Images de l'UFR Maths-Info à l'Université Paris Decartes
 
@@ -49,6 +49,9 @@ MAIAGES est la fusion des anciens GDR MIA et GeoSto.
 
 ### Co-Organisation d’évènements scientifiques (récents)
 
+* 2025 juin : [Conférence Mathematics of imaging: trends and perspectives](https://conferences.cirm-math.fr/workshops-2025.html), CIRM, Marseille, semaine du 30 juin
+* 2025 janvier : [conférence MIA’25 – Mathematics and Image Analysis](https://rt-maiages.math.cnrs.fr/mia25/mia25/), IHP, Paris, 13-15 janvier
+* 2024 déc : [Advances in learning-based image restoration](https://gdr-iasis.cnrs.fr/reunions/advances-in-learning-based-image-restoration/), IHP, 9 décembre 2024 
 * 2024 avril : [Workshop ICMS - Imaging inverse problems and generating models: sparsity and robustness versus expressivity](https://www.icms.org.uk/InverseProblems)
 * 2023 février : [conférence MIA’23 – Mathematics and Image Analysis, Berlin](https://www.wias-berlin.de/workshops/MIA2023/index.html)
 * 2023 mai : Journée Sciences et Médias à la BNF, [Scientifiques, journalistes, politiques :
