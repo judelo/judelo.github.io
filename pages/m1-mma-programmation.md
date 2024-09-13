@@ -11,7 +11,9 @@ header-img: "img/backBlue.png"
 * [TP bonus](https://helios2.mi.parisdescartes.fr/~jdelon/enseignement/MA106/tp_eqnonlineaire.pdf)
 * [Jeu des
 pays](https://mycloud.mi.parisdescartes.fr/s/HaoBntENjDd3Ctc),
-[world.csv](https://mycloud.mi.parisdescartes.fr/s/bo7Sz7KcmE3zkZ9) et  [world_cities.csv](https://mycloud.mi.parisdescartes.fr/s/RwnA9RkGybA3qmt) 
+[world.csv](https://mycloud.mi.parisdescartes.fr/s/bo7Sz7KcmE3zkZ9) et
+[world_cities.csv](https://mycloud.mi.parisdescartes.fr/s/RwnA9RkGybA3qmt) 
+* [Examen 2023-2024](https://mycloud.mi.parisdescartes.fr/s/QCqycfwDAi5Ep6H)
   
   
   
