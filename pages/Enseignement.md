@@ -11,7 +11,7 @@ header-img: "img/backBlue.png"
 
 ### Supports de cours
 
-[Une courte introduction aux réseaux de neurones et à l’apprentissage profond.](http://helios.mi.parisdescartes.fr/~ebirmele/depots/Enseignements/GrandeDimension/neural_networks.pdf) 
+[Une courte introduction aux réseaux de neurones et à l’apprentissage profond.](https://mycloud.mi.parisdescartes.fr/s/JJxgFm88H3BKHHB) 
 
 #### M1 Mathématiques, Modélisation, Apprentissage (MMA). Université Paris Cité
 
