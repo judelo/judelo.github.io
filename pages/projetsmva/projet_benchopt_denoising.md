@@ -1,4 +1,8 @@
-### **Création d’un benchmark reproductible pour le débruitage d’images avec Benchopt**
+---
+layout: page
+title: "Création d’un benchmark reproductible pour le débruitage d’images avec Benchopt"
+header-img: "img/backBlue.png"
+---
 
 #### Contexte :
 
@@ -11,7 +15,7 @@ Benchopt est une librairie Python conçue pour faciliter l’évaluation et la c
 #### Objectif du projet :
 
 Vous devrez :
-- Mettre en place un benchmark reproductible sur Benchopt [https://benchopt.github.io/](https://benchopt.github.io/) en utilisant les méthodes de débruitage suivantes :
+- Mettre en place un benchmark reproductible sur [Benchopt](https://benchopt.github.io/) en utilisant les méthodes de débruitage suivantes :
   1. **TV-L2** : voir le cours et le [TP](http://nbviewer.org/github/storimaging/Notebooks/blob/main/Restoration/Variational_approaches_for_image_restoration.ipynb) 
   2. **NLmeans** : [Article IPOL](https://www.ipol.im/pub/art/2011/bcm_nlm/) et [TP](http://nbviewer.org/github/storimaging/Notebooks/blob/main/Restoration/Non_Local_Means_for_denoising.ipynb)
   3. **FFDNet** : [Lien vers l'article](https://www.ipol.im/pub/art/2019/231/) et [TP](http://nbviewer.org/github/storimaging/Notebooks/blob/main/Restoration/Networks_for_image_denoising.ipynb)
@@ -27,12 +31,12 @@ Vous devrez :
   - **Puissance de calcul en teraflops** nécessaire pour exécuter chaque méthode.
   - **Coût d’entraînement** pour les méthodes basées sur des réseaux de neurones (FFDNet, DRUNet).
 
-#### Plan du projet :
+#### Etapes du projet :
 
 1. **Familiarisation avec Benchopt** :
    - Comprendre comment structurer un benchmark reproductible.
 
-2. **Imtégration des méthodes de débruitage** :
+2. **Intégration des méthodes de débruitage** :
    - Adapter les implémentations des méthodes ci-dessus pour les intégrer au benchmark.
    
 3. **Mise en place du benchmark** :
