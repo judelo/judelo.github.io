@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Création d’un benchmark reproductible pour le débruitage d’images avec Benchopt"
+title: "Projet Benchopt de débruitage d’images"
 header-img: "img/backBlue.png"
 ---
 
