@@ -8,6 +8,7 @@ header-img: "img/backBlue.png"
 
 Professeure au [MAP5](https://map5.mi.parisdescartes.fr/), UFR de Mathématiques-Informatique, Université Paris Cité (auparavant Paris Descartes jusqu’en 2019) depuis 2013.
 
+* 2024 : médaille d'argent du CNRS, INSMI
 * 2018 : prix Blaise Pascal SMAI-GAMNI, décerné par l’Académie des Sciences
 * 2017 – 2022 : membre junior de l’[Institut Universitaire de France](http://iuf.amue.fr)
 * 2005 – 2013 : Chargée de recherche CNRS au département TSI du LTCI (TELECOM ParisTech).
@@ -26,13 +27,13 @@ novembre 2023.
 * Membre du bureau de direction du [RT
 MAIAGES](https://rt-maiages.math.cnrs.fr) depuis janvier 2024. Le RT
 MAIAGES est la fusion des anciens GDR MIA et GeoSto.
-* Directrice du [GDR MIA](https://gdr-mia.math.cnrs.fr) avec Nicolas
-  Papadakis en 2022 et 2023.
+* 2022_2023 : Directrice du [GDR MIA](https://gdr-mia.math.cnrs.fr) avec Nicolas
+  Papadakis.
 * Editrice associée du SIAM Journal on Imaging Sciences (SIIMS) depuis
   2022 et Journal of Mathematical Imaging and Vision (JMIV) depuis 2023.
 * Membre du comité éditorial du journal Image Processing On Line 
 * Membre du conseil d’administration de la Société de Mathématiques Appliquées et Industrielles (SMAI) depuis 2019
-* Membre du CoNRS en section 41 de 2016 à 2020
+* 2016-2020 : Membre du CoNRS en section 41 
 
 ### Principales responsabilités pédagogiques
 
@@ -68,7 +69,7 @@ le bon, la brute et le truand ?](http://www.sciencesetmedias.org)
 * [PEPR PDE-AI](https://pde-ai.math.cnrs.fr), 2023-2027, Partial
   Differential Equations for Artificial Intelligence (porté par
   Antonin Chambolle)
-* ANR SOCOT (2023-2025) Ordres Stochastiques et Transport Contraint (portée par Nicolas JUILLET) 
+* [ANR SOCOT](https://codimd.math.cnrs.fr/s/vKWD_JtAu#) (2023-2025) Ordres Stochastiques et Transport Contraint (portée par Nicolas JUILLET) 
 * [ANR PostProdLEAP](https://www.labri.fr/perso/bugeau/PostProdLEAP/)
   (2019-2024): rethinking archive PostProduction with Learning,
   vAriational, and Patch-based methods (portée par Aurélie Bugeau).

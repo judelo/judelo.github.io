@@ -17,13 +17,10 @@ Email : prenom ‘dot’ nom ‘at’ u-paris ‘dot’ fr
 
 [Trouver mon bureau (752) aux Saints-Pères](pages/comment-venir.md)
 
-### Events
-
-[ICMS Imaging inverse problems and generating models: sparsity and robustness versus expressivity](https://www.icms.org.uk/InverseProblems) will take place in Edinburgh (8-10 April 2024)
 
 ### Research interests
 
-Optimal transport, image processing, inverse problems, stochastic models for image restoration and editing.
+Optimal transport, image processing, inverse problems, machine learning
 
 ### How to retard science?
 

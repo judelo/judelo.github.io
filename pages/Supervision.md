@@ -9,8 +9,6 @@ header-img: "img/backBlue.png"
 * Anatole Gallouet, Post-doc (06/2024 --), co-dir with Julie Digne and Nicolas Bonneel 
 * [Eloi Tanguy](https://eloitanguy.github.io/), PhD student (09/2022 --), co-dir with Agnès Desolneux
 * Keanu Sisouk, PhD student (11/2021 --), co-dir. with Julien Tierny
-* Bernardin Tamo Amogou (09/2023 --), co-dir with Marcelo Pereyra and
-Andrés Almansa 
 
 
 ### Former students (PhD, Post-Docs, Engineers)
@@ -42,7 +40,6 @@ Andrés Almansa
 
 * Thiziri Nait Saada (2021)
 * Anton François (2019)
-* Antoine Salmona (2019)
 * Matthew Henry (2015)
 * Agathe Viano (2015)
 * Yan Shu (2012)
