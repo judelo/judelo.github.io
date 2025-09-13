@@ -8,14 +8,13 @@ header-img: "img/HomeImage.jpeg"
 
 Julie Delon, Professeure CNU 26
 
-[MAP5](http://map5.mi.parisdescartes.fr/) (UMR CNRS 8145)
+[DMA](https://www.math.ens.psl.eu/) (UMR CNRS 8553)
 
-UFR Mathématiques-Informatique, Université Paris Cité  
-45, rue des Saints Pères, 75270 Paris Cedex 06, FRANCE  
-Tel: +33 (0)1 76 53 03 84  
-Email : prenom ‘dot’ nom ‘at’ u-paris ‘dot’ fr
+Département de mathématiques et applications,
+ENS Paris, 45 rue d'Ulm, 75005 Paris, France 
+Email : prenom ‘dot’ nom ‘at’ math ‘dot’ cnrs 'dot' fr
 
-[Trouver mon bureau (752) aux Saints-Pères](pages/comment-venir.md)
+Mon bureau est le BC321 au [Centre Sciences des données](https://csd.ens.psl.eu/?Presentation-du-CDD), 3e étage du bâtiment principal de l’ENS, côté escalier C. 
 
 
 ### Research interests
