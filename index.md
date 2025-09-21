@@ -12,6 +12,7 @@ Julie Delon, Professeure CNU 26
 
 Département de mathématiques et applications,
 ENS Paris, 45 rue d'Ulm, 75005 Paris, France 
+
 Email : prenom ‘dot’ nom ‘at’ math ‘dot’ cnrs 'dot' fr
 
 Mon bureau est le BC321 au [Centre Sciences des données](https://csd.ens.psl.eu/?Presentation-du-CDD), 3e étage du bâtiment principal de l’ENS, côté escalier C. 
