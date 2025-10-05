@@ -4,12 +4,19 @@ title: "Enseignement"
 header-img: "img/backBlue.png"
 ---
 
-### Masters MMA et MVA
+### Cours ENS, PSL, MVA, 2025-2026
 
-* [M2 Mathématiques,  Modélisation et Apprentissage](https://www.math-info.parisdescartes.fr/master-mathematiques-et-applications/specialite-mathematiques-modelisation-apprentissage/),  Université de Paris
-* [Master MVA](https://www.master-mva.com/), ENS Paris Saclay
+#### Computational Optimal Transport, Master MVA, avec Gabriel Peyré 
 
-### Supports de cours
+#### Cours Mathématiques des données, avec Gabriel Peyré 
+
+#### GT Transport optimal, ENS Paris
+
+
+### ANCIENS cours, Université Paris Descartes
+
+
+#### Supports de cours
 
 [Une courte introduction aux réseaux de neurones et à l’apprentissage profond.](https://mycloud.mi.parisdescartes.fr/s/JJxgFm88H3BKHHB) 
 
@@ -23,10 +30,14 @@ header-img: "img/backBlue.png"
 * [Cours Algorithmes Stochastiques](m2-mm-algorithmes-stochastiques.md), 2018-2024
 * [Cours Perception et analyse d’image](m2-ti-perception-acquisition-et-analyse-dimage.md), 2014-2020 (avec Joan Glaunès)
 
+
+
 #### M2 MVA, ENS Paris Saclay
 
 * [Modèles Stochastiques pour l’analyse d’image](mva-modeles-stochastiques.md), avec Agnès Desolneux et Bruno Galerne
 * [Introduction à l’imagerie numérique](mva-introduction-a-limagerie-numerique.md), avec Yann Gousseau
+
+
 
 #### [COGMASTER](http://sapience.dec.ens.fr/cogmaster/www/), Introductory course in mathematics and statistics for cognitive scientists, 2015-2016
 
@@ -35,7 +46,8 @@ Cours d’introduction aux probabilités pour les non mathématiciens.
 * [Introduction aux probabilités discrètes](http://www.math-info.univ-paris5.fr/~jdelon/enseignement/cogmaster/cogmaster_probas_discretes.pdf) + [TD1](http://www.math-info.univ-paris5.fr/~jdelon/enseignement/cogmaster/TD1_corrige.pdf), [TD2](http://www.math-info.univ-paris5.fr/~jdelon/enseignement/cogmaster/TD2_corrige.pdf), [TD3](http://www.math-info.univ-paris5.fr/~jdelon/enseignement/cogmaster/TD3_corrige.pdf)
 * [Introduction aux probabilités continues](http://www.math-info.univ-paris5.fr/~jdelon/enseignement/cogmaster/cogmaster_probas_continues.pdf)
 
-#### ANCIENS cours, Université Paris Descartes
+
+#### Autres anciens cours
 
 * TD Statistique Inférentielle, L2, 2017-2018, 2023-2024
 * Cours Apprentissage en grande dimension, M2 MMA, 2017-2018
