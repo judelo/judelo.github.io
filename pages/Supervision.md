@@ -6,6 +6,9 @@ header-img: "img/backBlue.png"
 
 ### Current supervisions
 
+* Emile Pierret, Post-doc (09/2025 --)
+* Samuel Boïté, PhD student (10/2025), co-dir with Kimia Nadjahi
+* Valentine Tosel, PhD student (10/2025), co-dir with Nicolas Papadakis	
 * Anatole Gallouet, Post-doc (06/2024 --), co-dir with Julie Digne and Nicolas Bonneel 
 * [Eloi Tanguy](https://eloitanguy.github.io/), PhD student (09/2022 --), co-dir with Agnès Desolneux
 * Keanu Sisouk, PhD student (11/2021 --), co-dir. with Julien Tierny
