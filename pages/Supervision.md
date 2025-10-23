@@ -10,12 +10,11 @@ header-img: "img/backBlue.png"
 * Samuel Boïté, PhD student (10/2025), co-dir with Kimia Nadjahi
 * Valentine Tosel, PhD student (10/2025), co-dir with Nicolas Papadakis	
 * Anatole Gallouet, Post-doc (06/2024 --), co-dir with Julie Digne and Nicolas Bonneel 
-* [Eloi Tanguy](https://eloitanguy.github.io/), PhD student (09/2022 --), co-dir with Agnès Desolneux
-* Keanu Sisouk, PhD student (11/2021 --), co-dir. with Julien Tierny
 
 
 ### Former students (PhD, Post-Docs, Engineers)
-
+* [Eloi Tanguy](https://eloitanguy.github.io/), PhD student (09/2022-11/2025), co-dir with Agnès Desolneux
+* Keanu Sisouk, PhD student (11/2021-11/2025), co-dir. with Julien Tierny
 * Antoine Salmona, musician and post-doc at IRCAM. PhD 09/2020-12/2023, co-dir. with Agnès  Desolneux
 * Lucia Bouza, Research engineer (12/2021-12/2023)
 * Antoine Monod, Research Engineer at Go Pro France. PhD 12/2019-2023,
