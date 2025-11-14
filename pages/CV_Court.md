@@ -6,7 +6,7 @@ header-img: "img/backBlue.png"
 
 ### Situation Professionelle
 
-Professeure au [MAP5](https://map5.mi.parisdescartes.fr/), UFR de Mathématiques-Informatique, Université Paris Cité (auparavant Paris Descartes jusqu’en 2019) depuis 2013.
+Professeure au [DMA](https://www.math.ens.psl.eu/), ENS Paris depuis septembre 2025. Auparavant prof. à l'Université Paris Cité depuis 2013.
 
 * 2024 : médaille d'argent du CNRS, INSMI
 * 2018 : prix Blaise Pascal SMAI-GAMNI, décerné par l’Académie des Sciences
@@ -22,31 +22,27 @@ Titre : Comparaison fine d’images et autres problèmes
 
 ### Expertise, animation de la recherche
 
-* Membre élue et assesseure du bureau du CNU section 26 depuis
-novembre 2023. 
-* Membre du bureau de direction du [RT
-MAIAGES](https://rt-maiages.math.cnrs.fr) depuis janvier 2024. Le RT
+* Membre élue et assesseure du bureau du CNU section 26 depuis novembre 2023. 
+* 2024-2025 Membre du bureau de direction du [RT
+MAIAGES](https://rt-maiages.math.cnrs.fr). Le RT
 MAIAGES est la fusion des anciens GDR MIA et GeoSto.
-* 2022_2023 : Directrice du [GDR MIA](https://gdr-mia.math.cnrs.fr) avec Nicolas
+* 2022-2023 : Directrice du [GDR MIA](https://gdr-mia.math.cnrs.fr) avec Nicolas
   Papadakis.
 * Editrice associée du SIAM Journal on Imaging Sciences (SIIMS) depuis
-  2022 et Journal of Mathematical Imaging and Vision (JMIV) depuis 2023.
-* Membre du comité éditorial du journal Image Processing On Line 
-* Membre du conseil d’administration de la Société de Mathématiques Appliquées et Industrielles (SMAI) depuis 2019
+  2022 et Journal of Mathematical Imaging and Vision (JMIV) depuis 2023, Information and inference: A Journal of the IMA, depuis 2025.
+* 2029-2025 Membre du conseil d’administration de la Société de Mathématiques Appliquées et Industrielles (SMAI)
 * 2016-2020 : Membre du CoNRS en section 41 
 
-### Principales responsabilités pédagogiques
+### Responsabilités à l’ENS Paris 
 
-* Correspondante locale du [M2 MVA](https://www.master-mva.com) (ENS Paris-Saclay) pour l’Université Paris Cité depuis 2019 
+* Depuis septembre 2025 : Directrice adjointe du [DMA](https://www.math.ens.psl.eu/)
+
+### Principales responsabilités à l’Université Paris Cité (avant 2025)
+
+* 2019-2023 Membre de la Commission Recherche, de la Commission des Postes et Ressources Humaines et du Conseil Académique de la Faculté des Sciences. 
+* 2019-2025 Correspondante locale du [M2 MVA](https://www.master-mva.com) (ENS Paris-Saclay) pour l’Université Paris Cité 
 * 2017-2022, responsable du [M2 Mathématiques, Modélisation, Apprentissage](https://math-info.u-paris.fr/master-mathematiques-et-applications/specialite-mathematiques-modelisation-apprentissage/) à l’Université Paris Cité
 * 2014-2017, responsable du M2 Traitement d’Images de l'UFR Maths-Info à l'Université Paris Decartes
-
-### Principales responsabilités à l’Université Paris Cité
-
-* Membre de la Commission des Postes et Ressources Humaines de la
-  Faculté des Sciences de l’Université Paris Cité de 2019 à 2023. 
-* Membre de la Commission Recherche de la Faculté des Sciences de l’Université Paris Cité de 2019 à 2023. 
-* Membre du Conseil Académique de la Faculté des Sciences de l’Université Paris Cité de 2019 à 2023. 
 
 ### Co-Organisation d’évènements scientifiques (récents)
 
