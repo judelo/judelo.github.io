@@ -15,7 +15,7 @@ Professeure au [DMA](https://www.math.ens.psl.eu/), ENS Paris depuis septembre 2
 
 ### Formation
 
-* 2011 : Habilition à diriger des Recherches, ENS Cachan
+* 2011 : Habilitation à diriger des Recherches, ENS Cachan
 Titre : Transport optimal et modélisations invariantes pour le traitement et l’analyse d’images
 * 2004 : Thèse de doctorat, ENS Cachan, dir. Jean-Michel Morel et Bernard Rougé
 Titre : Comparaison fine d’images et autres problèmes
